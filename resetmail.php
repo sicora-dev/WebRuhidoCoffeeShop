@@ -18,9 +18,9 @@ use PHPMailer\PHPMailer\Exception;
 
 $mail = new PHPMailer(true);
 $userEmail = $_GET['email'];
-$senderEmail = 'noreply.ruhido@gmail.com';
+$senderEmail = 'your_email@example.com';
 $token = uniqid();
-$asunto = 'Recuperación de contraseña';
+$asunto = 'Tu asunto aquí';
 $mensaje = '<!doctype html>
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
 
@@ -184,10 +184,10 @@ if ($result->num_rows <= 0) {
         $mail->isSMTP();
         $mail->Host = 'smtp.gmail.com';
         $mail->SMTPAuth = true;
-        $mail->SMTPSecure = 'ssl';
-        $mail->Username = 'noreply.ruhido@gmail.com';
-        $mail->Password = '?';
-        $mail->Port = 465;
+        $mail->SMTPSecure = 'tls';
+        $mail->Username = 'your_email@example.com';
+        $mail->Password = 'your_email_password';
+        $mail->Port = 587;
 
         $mail->addCustomHeader("MIME-Version: 1.0");
         $mail->addCustomHeader("Content-type: text/html; charset=UTF-8");
