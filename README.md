@@ -2,7 +2,7 @@
     <h1 align="center">WEBRUHIDOCOFFEESHOP</h1>
 </p>
 <p align="center">
-    <em><code>❯ REPLACE-ME</code></em>
+    <em><code>❯ Web Ruhido Coffee Shop Project</code></em>
 </p>
 <p align="center">
 	<img src="https://img.shields.io/github/license/sicora-pixel/WebRuhidoCoffeeShop?style=flat&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
@@ -39,7 +39,12 @@
 
 ## 📍 Overview
 
-The WebRuhidoCoffeeShop is an online coffee shop platform that allows users to browse, select, and purchase various coffee products. It provides a user-friendly interface for customers to manage their accounts and explore different types of coffee and related merchandise.
+<p align="center">
+    The WebRuhidoCoffeeShop is an online coffee shop platform that allows users to browse, select, and purchase various coffee products. It provides a user-friendly interface for customers to manage their accounts and explore different types of coffee and related merchandise.
+</p>
+<p align="center">
+    <strong>This project is the final assignment for the first year of the Higher Degree in Multiplatform Application Development (DAM).</strong>
+</p>
 
 
 ---
