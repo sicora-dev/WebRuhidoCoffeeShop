@@ -43,7 +43,7 @@
     The WebRuhidoCoffeeShop is an online coffee shop platform that allows users to browse, select, and purchase various coffee products. It provides a user-friendly interface for customers to manage their accounts and explore different types of coffee and related merchandise.
 </p>
 <p align="center">
-    <strong>This project is the final assignment for the first year of the Higher Degree in Multiplatform Application Development (DAM).</strong>
+    <strong>This project is my final assignment for the first year of the Higher Degree in Multiplatform Application Development (DAM).</strong>
 </p>
 
 
