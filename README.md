@@ -391,7 +391,7 @@ To run the project, execute the following command:
 <summary>Contributor Graph</summary>
 <br>
 <p align="left">
-   <a href="https://github.com/sicora-dev/WebRuhidoCoffeeShop/}graphs/contributors">
+   <a href="https://github.com/sicora-dev/WebRuhidoCoffeeShop/graphs/contributors">
       <img src="https://contrib.rocks/image?repo=sicora-pixel/WebRuhidoCoffeeShop">
    </a>
 </p>
