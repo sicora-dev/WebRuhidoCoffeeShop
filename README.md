@@ -39,7 +39,7 @@
 
 ## 📍 Overview
 
-The WebRuhidoCoffeeShop is an online coffee shop platform that allows users to browse, select, and purchase various coffee products. It provides a user-friendly interface for customers to manage their accounts, view their purchase history, and explore different types of coffee and related merchandise.
+The WebRuhidoCoffeeShop is an online coffee shop platform that allows users to browse, select, and purchase various coffee products. It provides a user-friendly interface for customers to manage their accounts and explore different types of coffee and related merchandise.
 
 
 ---
