@@ -387,10 +387,10 @@ To run the project, execute the following command:
 
 - **Angela**: 
     - [LinkedIn](https://www.linkedin.com/in/ángela-garcía-guerrero-b2230715b) 
-    - [GitHub](https://github.com/angela)
+    - [GitHub](https://github.com/AngelaGarGue)
 - **Ivan**: 
     - [LinkedIn](https://www.linkedin.com/in/ivan) 
-    - [GitHub](https://github.com/ivan)
+    - [GitHub](https://github.com/IvanSanchez18)
 
 <details closed>
 <summary>Contributor Graph</summary>
