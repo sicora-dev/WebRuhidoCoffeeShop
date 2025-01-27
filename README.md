@@ -386,7 +386,7 @@ To run the project, execute the following command:
 ## 🤝 Contributors
 
 - **Angela**: 
-    - [LinkedIn](https://www.linkedin.com/in/angela) 
+    - [LinkedIn](https://www.linkedin.com/in/ángela-garcía-guerrero-b2230715b) 
     - [GitHub](https://github.com/angela)
 - **Ivan**: 
     - [LinkedIn](https://www.linkedin.com/in/ivan) 
